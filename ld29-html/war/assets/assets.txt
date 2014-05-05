@@ -1,0 +1,12 @@
+d:war/
+d:data
+b:data/.DS_Store
+i:data/letters.png
+b:data/level1.tmx
+d:data/levels
+b:data/levels/.DS_Store
+b:data/levels/level1.csv
+b:data/levels/level2.csv
+i:data/levels/tileset.png
+i:data/libgdx.png
+i:data/tileset.png

@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Rsrc-Class-Path: ./ gdx.jar tween-engine-api.jar gdx-backend-lwjgl.jar
+  gdx-backend-lwjgl-natives.jar gdx-natives.jar
+Class-Path: .
+Rsrc-Main-Class: com.octoforce.games.ld29.Main
+Main-Class: org.eclipse.jdt.internal.jarinjarloader.JarRsrcLoader
+
